@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "D55AE02A-908E-489A-8D97-8564B9C7EE64",
+      "name" : "Test Scheme Action",
+      "options" : {
+        "locationScenario" : null
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "areLocalizationScreenshotsEnabled" : true,
+    "codeCoverage" : false,
+    "locationScenario" : {
+      "identifier" : "Warsaw, Poland",
+      "referenceType" : "built-in"
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:WeatherApp.xcodeproj",
+      "identifier" : "22B002C92756862C009EF4A2",
+      "name" : "WeatherApp"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
